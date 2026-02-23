@@ -6,5 +6,6 @@ tags:
 ---
  
 
-something is going on here
+[[Something]] is going on here
+
 
