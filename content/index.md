@@ -43,14 +43,19 @@ ask the team to perform a decision. something that i should not be in charge of
 
 #PD 
 Product design and functionality
+
 #MR 
 Market Research
+
 #IP 
 Intellectual Property
+
 #FI 
 Finance
+
 #DP 
 5-year Development Plan
+
 Manufacturing Supply Chain Distribution
 
 these are not common abbreviations but you get the point.
