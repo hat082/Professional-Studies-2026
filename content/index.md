@@ -1,7 +1,6 @@
 ---
 title: Notes and Draft for Professional Studies
 ---
-
 ## Current Work
 
 [[2026-02-24]]
