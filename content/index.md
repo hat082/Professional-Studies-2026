@@ -38,7 +38,8 @@ present an option or idea for the team to consider. This is something im not sur
 #decide 
 ask the team to perform a decision. something that i should not be in charge of
 
-### Teams (although each team has one person i thought it might be cool)
+### Teams 
+(although each team has one person i thought it might be cool)
 
 #PD 
 Product design and functionality
