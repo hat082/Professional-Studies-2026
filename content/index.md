@@ -3,8 +3,8 @@ title: Notes and Draft for Professional Studies
 ---
 
 ## Current Work
-![[Daily.base]]
 
+[[2026-02-24]]
 
 ## Folder Structure
 
