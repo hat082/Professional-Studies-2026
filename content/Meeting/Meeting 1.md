@@ -1,9 +1,8 @@
 ---
 title: Meeting 1
 draft: false
-date: 2025-02-04
+date: 2026-02-04
 tags:
-publish: true
 ---
 ## Meeting Outcome 
 
