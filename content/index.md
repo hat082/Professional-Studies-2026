@@ -1,4 +1,5 @@
 ---
-title: These are my notes
+title: Notes and Draft for Professional Studies
+publish: true
 ---
-[[content/Readme|Readme]]
+goto: [[content/Readme|Readme]]

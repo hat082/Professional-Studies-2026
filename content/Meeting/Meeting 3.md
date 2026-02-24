@@ -1,9 +1,7 @@
 ---
-title: <% tp.file.title %>
+title: Meeting 3
 draft: false
+date:
 tags:
 publish: true
 ---
- 
-
- 

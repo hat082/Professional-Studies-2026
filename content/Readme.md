@@ -2,12 +2,7 @@
 title: Readme
 draft: false
 tags:
-  - Note
+publish: true
 ---
- 
-
-[[Something]] is going on here
-
-
-
-i modified a lot of stuff?
+`Sources` are for directly paraphrasing from media/publications etc.
+`Notes` are for development of ideas extending from these sources, but in a more structured and independent way
