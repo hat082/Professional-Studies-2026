@@ -3,8 +3,8 @@ title: Notes and Draft for Professional Studies
 ---
 
 ## Current Work
+![[Daily.base]]
 
-im working on the [[Manufacturing Plan]], and have some [[CWA Feedback Reflection|reflection]] on the first feedback (for my part only). i haven't researched actual sources just yet. 
 
 ## Folder Structure
 
