@@ -3,17 +3,19 @@ title: Distribution
 draft: false
 tags:
 ---
-
 ## Options
 
 we have three options
 
 1. Independent EU 3PL
+
 See more in [[#Distribution Method]]
 
 2. Fulfillment by Amazon (FBA)
+
 ship to amazon EU warehouses. sell on amazon, they take care of packaging shipping refunds etc. We have low branding control. amazon takes 15% cut and fulfillment storage fees
 3. or crossborder directly from china
+
 the inventory is held in china, which has very low storage costs. However, if our customer base is mainly in EU, shipping individual and small parcels overseas will compound and be quite costly.
 
 

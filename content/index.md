@@ -1,10 +1,10 @@
 ---
 title: Notes and Draft for Professional Studies
 ---
-## Current Work
+## Timeline
 
-[[2026-02-25]]
-[[2026-02-24]]
+- Current > [[2026-02-25]]
+- [[2026-02-24]]
 
 ## Folder Structure
 
