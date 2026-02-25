@@ -3,7 +3,6 @@ title: Supply
 draft: false
 tags:
 ---
- 
 LiDAR modules from specialist suppliers ( #DP this would have long lead times impact on schedule #inform ).
 
 Electronics from qualified EU vendors to cut risk and tariffs. Mechanical parts from local suppliers.
